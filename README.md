@@ -8,7 +8,7 @@ The project combines wireless network scanning, data processing, and GUI develop
 
 ## 🚀 Demo
 
-![Wi-Fi Radar Scanner](images/radar_demo.png)
+![01_Wi-Fi Scanner](images/radar_demo.png)
 
 ---
 
