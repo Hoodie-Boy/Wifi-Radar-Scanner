@@ -1,6 +1,6 @@
 # 📡 Wi-Fi Radar Scanner
 
-A Python-based Wi-Fi scanner application that detects nearby wireless networks and visualizes them on a radar-style graphical interface.
+    A Python-based Wi-Fi scanner application that detects nearby wireless networks and visualizes them on a radar-style graphical interface.
 
 The project combines wireless network scanning, data processing, and GUI development to create an interactive visualization tool for Wi-Fi environments.
 
