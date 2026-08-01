@@ -66,7 +66,7 @@ The application provides:
 
 ---
 
-# ⚙️ How It Works
+## ⚙️ How It Works
 
     Wi-Fi Adapter
 
@@ -104,7 +104,7 @@ The application provides:
 
 ---
 
-# 🏗️ Project Architecture
+## 🏗️ Project Architecture
 
 Wi-Fi Radar Scanner
 │
