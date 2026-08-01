@@ -66,15 +66,15 @@ The application provides:
 
 ---
 
-## ⚙️ How It Works
+# ⚙️ How It Works
 
-    Wi-Fi Adapter
+   Wi-Fi Adapter
 
           |
           |
           v
 
-    PyWiFi Scanner
+   PyWiFi Scanner
 
           |
           |
@@ -86,13 +86,13 @@ The application provides:
           |
           v
 
-    Radar Visualization
+   Radar Visualization
 
           |
           |
           v
 
-    PySide6 GUI
+   PySide6 GUI
 
     The application periodically scans the surrounding wireless environment and converts detected networks into radar coordinates.
 
@@ -104,7 +104,7 @@ The application provides:
 
 ---
 
-## 🏗️ Project Architecture
+# 🏗️ Project Architecture
 
 Wi-Fi Radar Scanner
 │
@@ -128,9 +128,9 @@ Wi-Fi Radar Scanner
 ├── models.py
 │ Data structures
 │
-|── utils.py
-| Position calculation utilities
-|
+├── utils.py
+│ Position calculation utilities
+│
 
 ---
 
