@@ -1,0 +1,10 @@
+services:
+  wifi-radar-scanner:
+    build: .
+    container_name: wifi-radar-scanner
+
+    volumes:
+      - .:/app
+
+    stdin_open: true
+    tty: true
