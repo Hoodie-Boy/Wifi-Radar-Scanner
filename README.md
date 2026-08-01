@@ -107,30 +107,30 @@ The application provides:
 # 🏗️ Project Architecture
 
 Wi-Fi Radar Scanner
-│
-├── app/
-│
-├── main.py
-│ Application entry point
-│
-├── main_window.py
-│ Main GUI window
-│
-├── radar_widget.py
-│ Radar visualization widget
-│
-├── scanner.py
-│ Wi-Fi scanning module
-│
-├── wifi_worker.py
-│ Background scanning thread
-│
-├── models.py
-│ Data structures
-│
-├── utils.py
-│ Position calculation utilities
-│
+  │
+  ├── app/
+  │
+  ├── main.py
+  │ Application entry point
+  │
+  ├── main_window.py
+  │ Main GUI window
+  │
+  ├── radar_widget.py
+  │ Radar visualization widget
+  │
+  ├── scanner.py
+  │ Wi-Fi scanning module
+  │
+  ├── wifi_worker.py
+  │ Background scanning thread
+  │
+  ├── models.py
+  │ Data structures
+  │
+  ├── utils.py
+  │ Position calculation utilities
+  │
 
 ---
 
