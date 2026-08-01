@@ -68,31 +68,31 @@ The application provides:
 
 # ⚙️ How It Works
 
-   Wi-Fi Adapter
+    Wi-Fi Adapter
 
           |
           |
           v
 
-   PyWiFi Scanner
+    PyWiFi Scanner
 
           |
           |
           v
 
-   Network Processing
+    Network Processing
 
           |
           |
           v
 
-   Radar Visualization
+    Radar Visualization
 
           |
           |
           v
 
-   PySide6 GUI
+    PySide6 GUI
 
     The application periodically scans the surrounding wireless environment and converts detected networks into radar coordinates.
 
